@@ -28,3 +28,10 @@ The webserver.py needs to be located next to the other files to work properly
 
 
 <h2> Currently Working on redesigning display code</h2>
+
+<h3>Before:</h3>
+![image](https://user-images.githubusercontent.com/99132765/215088021-2855c4c7-2105-4331-8fa5-ee30379e182c.png)
+<h3>After</h3>
+Working on redesign
+
+
