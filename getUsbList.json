@@ -1,0 +1,38 @@
+[
+    {
+        "FileCount": 39,
+        "Name": "A",
+        "antivirus": "ClamAV 0.103.7/26779/Thu Jan 12 09:41:19 2023\n",
+        "pending": false,
+        "result": "/USB/1/System Volume Information/WPSettings.dat: OK\n/USB/1/System Volume Information/IndexerVolumeGuid: OK\n/USB/1/Montserrat.zip: OK\n/USB/1/nvidia_broadcast_v1.3.5.4.exe: OK\n/USB/1/PowerPointFeature_AlignObject.pptx: OK\n/USB/1/robots.txt: OK\n/USB/1/ShortVideoTutorialPresentations.pdf: OK\n/USB/1/StudentData_Word101.zip: OK\n/USB/1/SUM1Eval_09.jpg: OK\n/USB/1/User_Story_Labo_2_Webseite (1).pdf: OK\n/USB/1/User_Story_Labo_2_Webseite (2).pdf: OK\n/USB/1/User_Story_Labo_2_Webseite (3).pdf: OK\n/USB/1/User_Story_Labo_2_Webseite (4).pdf: OK\n/USB/1/User_Story_Labo_2_Webseite (5).pdf: OK\n/USB/1/User_Story_Labo_2_Webseite (6).pdf: OK\n/USB/1/User_Story_Labo_2_Webseite.pdf: OK\n/USB/1/Windows Server Lab04.docx: OK\n/USB/1/Windows Server Lab05.docx: OK\n/USB/1/WirelessAttacks.pptx: OK\n/USB/1/10.1.14.pka: OK\n/USB/1/10.3.4.pka: OK\n/USB/1/10.3.5-packet-tracer---troubleshoot-default-gateway-issues (1).pka: OK\n/USB/1/10.3.5-packet-tracer---troubleshoot-default-gateway-issues.pka: OK\n/USB/1/10.4.3.pka: OK\n/USB/1/10.4.4-packet-tracer---build-a-switch-and-router-network---physical-mode.pka: OK\n/USB/1/10_Managing Storage (1).docx: OK\n/USB/1/10_Managing Storage_cor.docx: OK\n/USB/1/11.10.1-packet-tracer---design-and-implement-a-vlsm-addressing-scheme.pka: OK\n/USB/1/11.10.2-packet-tracer---design-and-implement-a-vlsm-addressing-scheme---physical-mode.pka: OK\n/USB/1/11_RAID_cor.docx: OK\n/USB/1/12.9.1-packet-tracer---implement-a-subnetted-ipv6-addressing-scheme.pka: OK\n/USB/1/12_Logical Volume Management (1).docx: OK\n/USB/1/12_Logical Volume Management.docx: OK\n/USB/1/13_Managing Users and Groups.docx: OK\n/USB/1/13_Managing Users and Groups.pptx: OK\n/USB/1/14_System and User Security.docx: OK\n/USB/1/16_Linux Inodes and Links.docx: OK\n/USB/1/angular_upandrunning (1).pdf: OK\n/USB/1/angular_upandrunning.pdf: OK\n/USB/1/Certificates.pdf: OK\n/USB/1/Certificates.zip: OK\n\n----------- SCAN SUMMARY -----------\nKnown viruses: 8647910\nEngine version: 0.103.7\nScanned directories: 2\nScanned files: 41\nInfected files: 0\nData scanned: 66.32 MB\nData read: 82.83 MB (ratio 0.80:1)\nTime: 135.064 sec (2 m 15 s)\nStart Date: 2023:01:12 10:43:44\nEnd Date:   2023:01:12 10:46:00\n",
+        "startTimestamp": "<built-in function time>",
+        "status": "finish"
+    },
+    {
+        "FileCount": 40,
+        "Name": "D",
+        "antivirus": "ClamAV 0.103.7/26779/Thu Jan 12 09:41:19 2023\n",
+        "pending": false,
+        "result": "/USB/4/System Volume Information/WPSettings.dat: OK\n/USB/4/System Volume Information/IndexerVolumeGuid: OK\n/USB/4/11.10.2-packet-tracer---design-and-implement-a-vlsm-addressing-scheme---physical-mode.pka: OK\n/USB/4/11_RAID_cor.docx: OK\n/USB/4/12.9.1-packet-tracer---implement-a-subnetted-ipv6-addressing-scheme.pka: OK\n/USB/4/12_Logical Volume Management (1).docx: OK\n/USB/4/12_Logical Volume Management.docx: OK\n/USB/4/13_Managing Users and Groups.docx: OK\n/USB/4/13_Managing Users and Groups.pptx: OK\n/USB/4/14_System and User Security.docx: OK\n/USB/4/16_Linux Inodes and Links.docx: OK\n/USB/4/angular_upandrunning (1).pdf: OK\n/USB/4/angular_upandrunning.pdf: OK\n/USB/4/Certificates.pdf: OK\n/USB/4/Certificates.zip: OK\n/USB/4/eicar.com: Win.Test.EICAR_HDB-1 FOUND\n/USB/4/Montserrat.zip: OK\n/USB/4/nvidia_broadcast_v1.3.5.4.exe: OK\n/USB/4/PowerPointFeature_AlignObject.pptx: OK\n/USB/4/robots.txt: OK\n/USB/4/ShortVideoTutorialPresentations.pdf: OK\n/USB/4/StudentData_Word101.zip: OK\n/USB/4/SUM1Eval_09.jpg: OK\n/USB/4/User_Story_Labo_2_Webseite (1).pdf: OK\n/USB/4/User_Story_Labo_2_Webseite (2).pdf: OK\n/USB/4/User_Story_Labo_2_Webseite (3).pdf: OK\n/USB/4/User_Story_Labo_2_Webseite (4).pdf: OK\n/USB/4/User_Story_Labo_2_Webseite (5).pdf: OK\n/USB/4/User_Story_Labo_2_Webseite (6).pdf: OK\n/USB/4/User_Story_Labo_2_Webseite.pdf: OK\n/USB/4/Windows Server Lab04.docx: OK\n/USB/4/Windows Server Lab05.docx: OK\n/USB/4/WirelessAttacks.pptx: OK\n/USB/4/10.1.14.pka: OK\n/USB/4/10.3.4.pka: OK\n/USB/4/10.3.5-packet-tracer---troubleshoot-default-gateway-issues (1).pka: OK\n/USB/4/10.3.5-packet-tracer---troubleshoot-default-gateway-issues.pka: OK\n/USB/4/10.4.3.pka: OK\n/USB/4/10.4.4-packet-tracer---build-a-switch-and-router-network---physical-mode.pka: OK\n/USB/4/10_Managing Storage (1).docx: OK\n/USB/4/10_Managing Storage_cor.docx: OK\n/USB/4/11.10.1-packet-tracer---design-and-implement-a-vlsm-addressing-scheme.pka: OK\n\n----------- SCAN SUMMARY -----------\nKnown viruses: 8647910\nEngine version: 0.103.7\nScanned directories: 2\nScanned files: 42\nInfected files: 1\nData scanned: 66.32 MB\nData read: 82.83 MB (ratio 0.80:1)\nTime: 133.949 sec (2 m 13 s)\nStart Date: 2023:01:12 10:43:44\nEnd Date:   2023:01:12 10:45:58\n",
+        "startTimestamp": "<built-in function time>",
+        "status": "finish"
+    },
+    {
+        "FileCount": 0,
+        "Name": "C",
+        "antivirus": "",
+        "pending": false,
+        "result": "",
+        "startTimestamp": "",
+        "status": "nocheck"
+    },
+    {
+        "FileCount": 40,
+        "Name": "B",
+        "antivirus": "ClamAV 0.103.7/26779/Thu Jan 12 09:41:19 2023\n",
+        "pending": true,
+        "result": "/USB/2/System Volume Information/WPSettings.dat: OK\n/USB/2/System Volume Information/IndexerVolumeGuid: OK\n/USB/2/eicar.com: Win.Test.EICAR_HDB-1 FOUND\n/USB/2/angular_upandrunning (1).pdf: OK\n/USB/2/angular_upandrunning.pdf: OK\n/USB/2/StudentData_Word101.zip: OK\n/USB/2/12.9.1-packet-tracer---implement-a-subnetted-ipv6-addressing-scheme.pka: OK\n/USB/2/11.10.1-packet-tracer---design-and-implement-a-vlsm-addressing-scheme.pka: OK\n/USB/2/11.10.2-packet-tracer---design-and-implement-a-vlsm-addressing-scheme---physical-mode.pka: OK\n/USB/2/SUM1Eval_09.jpg: OK\n/USB/2/16_Linux Inodes and Links.docx: OK\n/USB/2/Windows Server Lab04.docx: OK\n/USB/2/Windows Server Lab05.docx: OK\n/USB/2/User_Story_Labo_2_Webseite (6).pdf: OK\n/USB/2/User_Story_Labo_2_Webseite (5).pdf: OK\n/USB/2/User_Story_Labo_2_Webseite (4).pdf: OK\n/USB/2/User_Story_Labo_2_Webseite (3).pdf: OK\n/USB/2/Certificates.zip: OK\n/USB/2/User_Story_Labo_2_Webseite (2).pdf: OK\n/USB/2/User_Story_Labo_2_Webseite (1).pdf: OK\n/USB/2/robots.txt: OK\n/USB/2/Montserrat.zip: OK\n/USB/2/nvidia_broadcast_v1.3.5.4.exe: OK\n/USB/2/ShortVideoTutorialPresentations.pdf: OK\n/USB/2/PowerPointFeature_AlignObject.pptx: OK\n/USB/2/User_Story_Labo_2_Webseite.pdf: OK\n/USB/2/Certificates.pdf: OK\n/USB/2/10.3.5-packet-tracer---troubleshoot-default-gateway-issues (1).pka: OK\n/USB/2/10.3.5-packet-tracer---troubleshoot-default-gateway-issues.pka: OK\n/USB/2/10.4.4-packet-tracer---build-a-switch-and-router-network---physical-mode.pka: OK\n/USB/2/10.4.3.pka: OK\n/USB/2/10.3.4.pka: OK\n/USB/2/10.1.14.pka: OK\n/USB/2/WirelessAttacks.pptx: OK\n/USB/2/14_System and User Security.docx: OK\n/USB/2/13_Managing Users and Groups.docx: OK\n/USB/2/13_Managing Users and Groups.pptx: OK\n/USB/2/10_Managing Storage (1).docx: OK\n/USB/2/12_Logical Volume Management.docx: OK\n/USB/2/12_Logical Volume Management (1).docx: OK\n/USB/2/10_Managing Storage_cor.docx: OK\n/USB/2/11_RAID_cor.docx: OK\n\n----------- SCAN SUMMARY -----------\nKnown viruses: 8647910\nEngine version: 0.103.7\nScanned directories: 2\nScanned files: 42\nInfected files: 1\nData scanned: 66.32 MB\nData read: 82.83 MB (ratio 0.80:1)\nTime: 123.233 sec (2 m 3 s)\nStart Date: 2023:01:12 10:45:59\nEnd Date:   2023:01:12 10:48:03\n",
+        "startTimestamp": "<built-in function time>",
+        "status": "finish"
+    }
+]
