@@ -25,3 +25,6 @@ Additional Information: The project uses some shell script for plug in the USB s
 
 <h2>Additional Info</h2>
 The webserver.py needs to be located next to the other files to work properly
+
+
+<h2> Currently Working on redesigning display code</h2>
