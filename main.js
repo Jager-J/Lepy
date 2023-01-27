@@ -1,4 +1,4 @@
-/*function reload(){
+function reload(){
 $.getJSON('http://10.0.120.9/getUsbList.json', function(data) {
     let usbSlot="";
     for(let i=0;i<data.length;i++){
@@ -63,4 +63,3 @@ $.getJSON('http://10.0.120.9/getUsbList.json', function(data) {
 }
 
 reload()
-*/
